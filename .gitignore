@@ -1,0 +1,36 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code specific files
+.vscode/
+
+# Jupyter lab workspace
+.jupyterlab/
+
+# Spyder specific files
+.spyderproject
+.spyproject
+
+# PyCharm specific files
+.idea/
+
+# Conda environment
+.env/
+.venv/
+__pycache__/
+
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Customarily used for environments in Python
+env/
+venv/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
